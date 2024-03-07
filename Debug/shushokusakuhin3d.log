@@ -1,0 +1,6 @@
+﻿  game.cpp
+c:\users\sakaino.terumi\desktop\就職作品3d\game.cpp(92): error C3861: 'InitLife': 識別子が見つかりませんでした
+c:\users\sakaino.terumi\desktop\就職作品3d\game.cpp(156): error C3861: 'UninitLife': 識別子が見つかりませんでした
+c:\users\sakaino.terumi\desktop\就職作品3d\game.cpp(204): error C3861: 'UpdateLife': 識別子が見つかりませんでした
+c:\users\sakaino.terumi\desktop\就職作品3d\game.cpp(260): error C3861: 'DrawLife': 識別子が見つかりませんでした
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(381,5): error MSB6006: "CL.exe" はコード 2 を伴って終了しました。
